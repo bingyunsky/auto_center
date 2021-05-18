@@ -79,9 +79,9 @@ WSGI_APPLICATION = 'auto_center.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'auto_center',
-        'USER': 'root',
-        'PASSWORD': 'vince120611',
+        'NAME': '********',
+        'USER': '****',
+        'PASSWORD': '*********',
         'HOST': 'localhost',
         'PORT': '3306',
         # 第三方登录时，要求引擎为INNODB
